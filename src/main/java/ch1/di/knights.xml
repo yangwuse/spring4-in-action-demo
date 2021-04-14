@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--1.6-->
+<beans >
+<!--    <bean id="knight" class="ch1.di.requesthandler.CssRequestHandlerImpl">-->
+<!--        <constructor-arg ref="quest"/>-->
+<!--    </bean>-->
+<!--    <bean id="quest" class="ch1.di.request.CssRequestImpl">-->
+<!--        <constructor-arg value="#{T(System).out}" />-->
+<!--    </bean>-->
+</beans>
+
+
